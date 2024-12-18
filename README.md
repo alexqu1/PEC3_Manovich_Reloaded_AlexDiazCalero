@@ -1,8 +1,8 @@
 # PEC3_Manovich_Reloaded_AlexDiazCalero
 
 ## Autor
-- Nombre: Alex
-- Fecha: 16 diciembre 2024
+- Nombre: Alex Diaz Calero
+- Fecha: 18 diciembre 2024
 
 ## Introducción
 Lev Manovich, en su obra *El Software Toma el Mando*, analiza cómo el software ha transformado los medios y la cultura. Este ensayo explora dos casos de hibridación moderna no tratados en su libro: **ENGAGE VR** y **The Wave VR**. Ambos representan ejemplos innovadores de cómo las tecnologías híbridas están cambiando nuestra forma de aprender y experimentar el arte.
